@@ -19,3 +19,5 @@ Software engineering is my passion and career goal. I continuously strive to dev
 
 [![RealHouzing - Real Estate API-API Consume](https://github-readme-stats.vercel.app/api/pin/?username=dostundegil&repo=RealHouzing&theme=dark)](https://github.com/dostundegil/RealHouzing)
 [![Edukator - Online Course Website](https://github-readme-stats.vercel.app/api/pin/?username=dostundegil&repo=Edukator.PresentationLayer&theme=dark)](https://github.com/dostundegil/Edukator.PresentationLayer)
+[![Linktree Clone with AWS](https://github-readme-stats.vercel.app/api/pin/?username=dostundegil&repo=LinkTree&theme=dark)](https://github.com/dostundegil/LinkTree)
+[![.NET MVC - Mini Blog Project](https://github-readme-stats.vercel.app/api/pin/?username=dostundegil&repo=MvcBlog&theme=dark)](https://github.com/dostundegil/MvcBlog)
