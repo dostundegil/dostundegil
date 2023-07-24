@@ -5,7 +5,7 @@
 
 <img align="right" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" width='200'/> 
 
-Software engineering is my passion and career goal. I continuously strive to develop myself and keep my technical knowledge up-to-date. Additionally, I possess strong teamwork and communication skills, which enable me to work collaboratively with other team members and achieve successful outcomes in projects. By working in the field of software engineering, I aim to bring innovative projects to life and contribute to the world.
+My programming adventure started in 2018 and since then, I have been actively developing projects and continuously improving my skills as a proficient developer. In particular, I have focused on learning and working with .NET Core technologies since the end of 2022, allowing me to strengthen my expertise and build robust applications
 
 ## 👨‍💻 Professional Skills
 
