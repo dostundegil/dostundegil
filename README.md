@@ -9,7 +9,7 @@ My programming adventure started in 2018 and since then, I have been actively de
 
 ## 👨‍💻 Professional Skills
 
--  **BackEnd:**  .Net MVC / .NET CORE MVC
+-  **BackEnd:**  .Net MVC / .Net Core MVC / .Net API
 -  **DevOps:**  Amazon Web Services (AWS), Google Cloud
 -  **Database:** Relational Database (SQL, PostgreSQL)
 
